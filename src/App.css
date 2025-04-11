@@ -1,0 +1,30 @@
+body{
+    background-color: darkgray;
+    color: black;
+    margin:auto;
+    text-align: center;
+    font-family: initial;
+    text-decoration: burlywood;
+    width: auto;
+    height: auto;
+
+
+}
+button{
+    background-color: azure;
+    color: black;
+    border: bisque;
+    cursor: pointer;
+    padding:10px ;
+    border-radius: 9px;
+    font-size: smaller
+}
+input{
+    width: 15%;
+    padding: 0.5 rem ;
+    font-size: 1 rem;
+    border-radius: 5px;
+    border: 1 px solid goldenrod;
+    margin: 0%;
+
+}
