@@ -1,0 +1,19 @@
+.grid-view {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    align-items: center;
+    margin: 20px;
+}
+    .student {
+        border: 2px solid #101110; 
+        border-radius: 10px;
+        padding: 10px;
+        width:300px;
+        cursor:pointer;
+        
+        background-color: bisque;
+      }
